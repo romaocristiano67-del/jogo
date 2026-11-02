@@ -8,7 +8,9 @@ O vertical slice jogável contém:
 
 - Primeira pessoa, corrida, salto, portas e interiores visíveis.
 - Casas, portaria com seguranças, ruas, árvores, campo, piscina e residentes.
-- Céu dinâmico com sol, lua, estrelas, nuvens e ciclo dia/noite.
+- Céu dinâmico com sol, lua, estrelas, nuvens e ciclo completo dia/noite de 40 minutos.
+- Campo com bolas jogáveis, golos e marcador.
+- Área de lazer com piscina, espreguiçadeiras, pergola e churrasqueira.
 - Veículos de tráfego, entrada/saída e condução inicial.
 - Chuva visual ativável com `R`, som procedural e guardado local.
 - Perfis de qualidade para PC com Intel Iris Xe.
@@ -34,6 +36,8 @@ Enquanto a migração para módulos não estiver concluída, também pode abrir 
 | E ou clique | Interagir, abrir portas, entrar/sair do veículo |
 | R | Chuva |
 | T | Avançar o tempo |
+
+No campo, caminhe ou corra contra a bola para chutar.
 
 ## Licenças e referências
 

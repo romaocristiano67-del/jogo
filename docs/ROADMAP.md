@@ -4,7 +4,7 @@
 
 - [x] Mundo exterior navegável, portaria, vias, piscina, NPCs e casas.
 - [x] Ciclo de tempo, céu, sol/lua, iluminação noturna, som e adaptação de desempenho.
-- [x] Chuva visual, guardado local e condução inicial.
+- [x] Chuva visual, guardado local, condução inicial, campo interativo e ciclo de 40 minutos.
 - [ ] Migrar do HTML monolítico para módulos Vite.
 - [ ] Instrumentar FPS, draw calls e memória por qualidade.
 
