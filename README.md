@@ -12,6 +12,7 @@ O vertical slice jogável contém:
 - Veículos de tráfego, entrada/saída e condução inicial.
 - Chuva visual ativável com `R`, som procedural e guardado local.
 - Perfis de qualidade para PC com Intel Iris Xe.
+- Navegação de NPCs e pipeline de otimização GLB preparados no projeto.
 
 ## Executar
 
@@ -37,3 +38,5 @@ Enquanto a migração para módulos não estiver concluída, também pode abrir 
 ## Licenças e referências
 
 O motor e as bibliotecas planeadas estão documentados em [docs/ARQUITETURA.md](docs/ARQUITETURA.md). As fotos em `assets/references/` servem apenas de orientação interna e não são recursos do jogo.
+
+Consulte [docs/ASSET_POLICY.md](docs/ASSET_POLICY.md) antes de importar qualquer asset ou exemplo de outro repositório.
