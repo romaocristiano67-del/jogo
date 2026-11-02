@@ -1,0 +1,19 @@
+{
+  "name": "vila-girassol-3d",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Simulação e exploração de condomínio residencial tropical contemporâneo.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "cannon-es": "^0.20.0",
+    "three": "0.128.0",
+    "three-mesh-bvh": "0.5.0"
+  },
+  "devDependencies": {
+    "vite": "^7.1.7"
+  }
+}
